@@ -1,2 +1,0 @@
-# bin-devops
-devops testing
