@@ -1,6 +1,6 @@
 ---
 apiVersion: apps/v1
-kind: namespace
+kind: Namespace
 metadata:
   name: htest
 
