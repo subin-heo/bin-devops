@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - ".github/workflows/my-app-ci.yaml"
+      - ".github/workflows/workflows_1.yaml"
       - "my-app/**"
 
 env:
